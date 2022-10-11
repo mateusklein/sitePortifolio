@@ -11,6 +11,7 @@ tasklist:
 
 - [x] primeira
 - [x] segunda
+- [ ] terceira
 
 1. okok
     1. okokoko
