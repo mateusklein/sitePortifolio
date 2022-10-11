@@ -14,4 +14,4 @@ ok
 #### Parte 3
 colocando links:
 
-[Instagram](https://instagram.com/ok)
+[Instagram](https://instagram.com)
