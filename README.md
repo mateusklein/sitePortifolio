@@ -3,9 +3,9 @@ portifolio
 **portifolio em negrito**
 _portifolio em italico_
 ## Modulos:
-nome_modulo1
-nome_modulo2
-okok
+* nome_modulo1
+* nome_modulo2
+* okok
 
 ### Parte2
 ok
