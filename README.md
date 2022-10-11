@@ -38,3 +38,8 @@ area do codigo
 #passando como .py
 print("ola mundo") 
 ```
+
+Propriedadade | Descrição
+------------- | ---------
+name | colocar o nome
+size | tamanho
