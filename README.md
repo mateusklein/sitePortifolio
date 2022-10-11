@@ -25,3 +25,11 @@ colocando links:
 >este é um blockquote, destacando alguma area
 >
 >segunda area destacada
+```
+area do codigo
+```
+
+```py
+#passando como .py
+print("ola mundo") 
+```
